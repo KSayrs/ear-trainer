@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">EarTrainer</string>
+
+    <string name="welcome">Welcome to EarTrainer!</string>
+    <string name="click_to_play">Click the Play button to play notes. Then select the corresponding solfege. Remember, it will always start on do!</string>
+    <string name="play">Play</string>
+    <string name="score">Score: </string>
+    <string name="zero">0</string>
+
+    <string name="submit">Submit</string>
+    <string name="button_do">Do</string>
+    <string name="button_re">Re</string>
+    <string name="button_mi">Mi</string>
+    <string name="button_fa">Fa</string>
+    <string name="button_sol">Sol</string>
+    <string name="button_la">La</string>
+    <string name="button_ti">Ti</string>
+    <string name="button_do_upper">Octave</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
